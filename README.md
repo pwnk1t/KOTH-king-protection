@@ -4,4 +4,4 @@ chmod +x protection.sh
 
 ./protection.sh
 
-enter username 
+the script will ask for you username :) 
