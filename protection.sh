@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #created by pwnk1t 
+#https://www.youtube.com/@pwnk1t
 #Cyber30 stop banning my ip in the games 
 
 
@@ -8,7 +9,7 @@
 #       King Protection        #
 ################################
 
-echo "[+] creating King protection⚙️"
+echo "[+] creating King protection ⚙️"
 
 sleep 1
 
