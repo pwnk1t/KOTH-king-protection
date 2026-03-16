@@ -42,8 +42,10 @@ sleep 1
 echo "[+] if service is not running do -> systemctl start KOTH.service"
 sleep 1
 echo "[+] check systemctl status KOTH.service"
+echo ""
 sleep 1
 echo "[💀] created by pwnk1t [💀]"
+echo ""
 sleep 1 
 echo " 🕷️ enjoy the game 🕷️"
 sleep 1
