@@ -34,10 +34,10 @@ sleep 2
 
 echo "[+] protection created 👑"
 sleep 1
-echo "[+] if service is not running do -> systemctl start KOTH"
+echo "[+] if service is not running do -> systemctl start KOTH.service"
 sleep 1
 echo "[+] check systemctl status KOTH.service"
 sleep 1 
-echo " 🕷️ enjoy the game 🕷️
+echo " 🕷️ enjoy the game 🕷️"
 sleep 1
 echo ""
