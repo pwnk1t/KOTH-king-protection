@@ -9,6 +9,15 @@
 #       King Protection        #
 ################################
 
+
+if [ "$EUID" -ne 0 ]; then
+    echo "Run as root"
+    exit
+fi
+
+clear
+
+
 echo "[+] creating King protection ⚙️"
 
 sleep 1
@@ -37,11 +46,11 @@ systemctl start KOTH.service
 
 sleep 2
 
-echo "[+] protection created 👑"
-sleep 1
 echo "[+] if service is not running do -> systemctl start KOTH.service"
 sleep 1
 echo "[+] check systemctl status KOTH.service"
+sleep 1
+echo "[+] protection installed 👑"
 echo ""
 sleep 1
 echo "[💀] created by pwnk1t [💀]"
