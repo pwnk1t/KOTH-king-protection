@@ -48,7 +48,7 @@ sleep 2
 
 echo "[+] if service is not running do -> systemctl start KOTH.service"
 sleep 1
-echo "[+] check systemctl status KOTH.service"
+echo -e "\033[96m[+] check systemctl status KOTH.service\033[0m"
 sleep 1
 echo "[+] protection installed 👑"
 echo ""
