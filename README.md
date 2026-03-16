@@ -1,4 +1,4 @@
-Low lvl king 👑 protection for everyone :D 
+low lvl king 👑 protection for everyone :D 
 
 chmod +x protection.sh
 
