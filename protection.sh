@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#created by pwnk1t 
+#Cyber30 stop banning my ip in the games 
+
+
 ################################
 #       King Protection        #
 ################################
